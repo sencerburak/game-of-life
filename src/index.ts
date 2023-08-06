@@ -1,3 +1,3 @@
-import MyCounter from './components/App'
+import { GameCanvas } from './components/GameCanvas'
 
-export { MyCounter }
+export { GameCanvas }

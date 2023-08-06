@@ -1,5 +1,5 @@
 {
-  "name": "game-of-life",
+  "name": "@sencerburak/game-of-life",
   "version": "1.0.0",
   "description": "A react implementation of the popular Conway's game of life.",
   "main": "./dist/cjs/index.js",
@@ -53,5 +53,5 @@
   },
   "peerDependencies": {
     "react": ">=16"
-  },
+  }
 }
